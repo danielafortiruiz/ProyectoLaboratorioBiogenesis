@@ -1,5 +1,11 @@
 # 🚀 **Proyecto Laboratorio Biogénesis**
 
+<p align="center">
+  <img src="https://github.com/danielafortiruiz/ProyectoLaboratorioBiogenesis/blob/main/logo%20biogenesis.png?raw=true" alt="Logo Biogénesis">
+</p>
+
+
+
 🌍 **Expansión Estratégica de Biogénesis**
 Este análisis de datos tiene como objetivo identificar las ubicaciones óptimas para la expansión de laboratorios farmacéuticos para Biogénesis, basándose en los siguientes factores:
 
