@@ -40,3 +40,20 @@ Recomendaciones Estratégicas:
 💡 Proporcionar datos precisos para apoyar decisiones estratégicas de expansión.
 🏥 Mejorar el acceso a servicios de salud y optimizar la infraestructura existente.
 Con este enfoque, buscamos no solo identificar ubicaciones ideales, sino también mejorar el impacto de las iniciativas de salud pública y la capacidad de respuesta del laboratorio.
+
+Dashboard Power Bi: (captura de imagenes)
+<p align="center">
+  <img src="https://github.com/danielafortiruiz/ProyectoLaboratorioBiogenesis/blob/main/imagen%20biogenesis%202%20.png?raw=true" alt="Biogénesis">
+</p>
+
+<p align="center">
+  <img src="https://github.com/danielafortiruiz/ProyectoLaboratorioBiogenesis/blob/main/imagen%20power%20bi.jpg?raw=true" alt="Power BI">
+</p>
+
+<p align="center">
+  <img src="https://github.com/danielafortiruiz/ProyectoLaboratorioBiogenesis/blob/main/biogenesis%203%20img.png?raw=true" alt="Biogénesis 3">
+</p>
+
+
+
+
